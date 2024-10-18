@@ -25,16 +25,21 @@ NationIcons/Aliens
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Sumeria
+UnitIcons/Phasers
   rotate: false
-  xy: 383, 4
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+game2.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Sumeria
   rotate: false
-  xy: 328, 4
+  xy: 420, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
