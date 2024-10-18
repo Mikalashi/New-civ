@@ -1,6 +1,6 @@
 
 game.png
-size: 512, 128
+size: 1024, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -21,6 +21,13 @@ BuildingIcons/Holodeck
 NationIcons/Aliens
   rotate: false
   xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sumeria
+  rotate: false
+  xy: 396, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
